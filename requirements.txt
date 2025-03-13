@@ -1,0 +1,9 @@
+fastapi
+python-dotenv
+PyPDF2
+langchain
+uvicorn
+pinecone-client
+langchain-chroma
+langchain-community
+openai
