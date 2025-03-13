@@ -1,4 +1,4 @@
-# streamlit-rag-boilerplate
+# FASTAPI-rag-boilerplate
 
 This application is a FastAPI service that processes PDF files and answers queries based on the content of those files using a retrieval-augmented generation (RAG) approach.
 
